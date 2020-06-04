@@ -1,0 +1,11 @@
+_code_wheel_.scad		Master OpenSCAD file that can be used to generate your own STLs (with your own custom alphabet randomization for the cipher ring)
+card_characters.ttf		Font used in this project, necessary for use of the OpenSCAD file.
+cipher_ring_01.stl		This is an inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+cipher_ring_02.stl		This is another inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+cipher_ring_03.stl		This is another inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+cipher_ring_04.stl		This is another inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+cipher_ring_05.stl		This is another inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+cipher_ring_06.stl		This is yet another inner cipher ring with the alphabet randomized.  It can be paired with the Code Wheel Base to encrypt and decrypt messages.
+code_wheel_base.stl		This is the large base piece of the Code Wheel.  It contains the alphabet -- in order -- on the outer ring.
+punchout_tool.stl		3D printed pieces may become stuck and require adjustment or extra effort when separating them.  This tool will help with ejection (the Code Wheel Base has integrated ejection holes beneath the cipher ring for this purpose)
+queen.png			Central front face art of the code wheel, necessary for use of the OpenSCAD file.
